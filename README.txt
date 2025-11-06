@@ -1,0 +1,1 @@
+Upload these HTML files to your hosting root. Place an 'images' folder with logo.png and other images as needed.
